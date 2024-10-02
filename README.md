@@ -1,27 +1,18 @@
-# package_name
+# Pacote_de_processamento_de_imagens_Pypi
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Repositório criado para testes das funcionalidades do Pypi e como fazer o envio para a plataforma.
 
-## Installation
+### Funções disponíveis em image_processing:
+- Combinação de imagens;
+- Transformação de imagens;
+- Identificação de diferença em imagens;
+- Plotagem de imagens.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+## Link de acesso ao repositório Pypi criado:
 
-```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
 
 ## Author
-My_name
+Octavioomg
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
