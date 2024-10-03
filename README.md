@@ -9,6 +9,8 @@ Repositório criado para testes das funcionalidades do Pypi e como fazer o envio
 - Plotagem de imagens.
 
 ## Link de acesso ao repositório Pypi criado:
+https://pypi.org/project/Pacote-de-processamento-de-imagens-Pypi/
+
 
 
 ## Author
